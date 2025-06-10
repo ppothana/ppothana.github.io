@@ -128,6 +128,23 @@ Skills
 - **Core Flooding**: Fluid flow experiments under reservoir conditions  
 - **Porosity & Permeability**: Helium porosimetry and gas permeametry
 
+Memberships
+======
+* **American Rock Mechanics Association (ARMA)**  
+  *Jan 2021 – Present*  
+
+* **Society of Exploration Geophysicists (SEG)**  
+  *Jun 2020 – Present*  
+
+* **Society of Petroleum Engineers (SPE)**  
+  *Feb 2021 – Present*  
+
+* **Society of Petrophysicists and Well Log Analysts (SPWLA)**  
+  *Jun 2020 – Present*  
+
+* **International Society for Rock Mechanics and Rock Engineering (ISRM)**  
+  *Aug 2021 – Present*
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -149,3 +166,47 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Awards and Recognitions
+====
+* **Doctoral Conference Travel Grant**, University of North Dakota, USA.  
+  *Mar 2024*  
+
+* **Marathon Oil Research Scholarship**, University of North Dakota, ND, USA.  
+  *2022 – 2023*  
+
+* **Research Travel Grant**, College of Engineering and Mines, University of North Dakota, USA.  
+  *Jun 2023*  
+
+* **Graduate Assistantship for Ph.D.**, University of North Dakota, Funded by North Dakota Industrial Commission, ND, USA.  
+  *2020 – 2025*  
+
+* **Best Student Papers (2nd place)**, The 23rd ICNS IEEE Conference, Herndon, Virginia, USA.  
+  *Apr 2022*  
+
+* **Hughes-Fogarty Family Research Scholarship**, University of North Dakota, ND, USA.  
+  *2021 – 2022*  
+
+* **Merit Award**, Executive Director, Center for Excellence in Well Logging Technology, India.  
+  *Jan 2019*  
+
+* **Merit Award**, Director On-shore, Oil and Natural Gas Corporation Ltd, India.  
+  *Jan 2018*  
+
+* **Merit Award**, Executive Director, CLS, Oil and Natural Gas Corporation Ltd, India.  
+  *Jan 2017*  
+
+* **All India Rank: 12**, Graduate Aptitude Test (GATE) in Geology and Geophysics, India.  
+  *Mar 2015*  
+
+* **Qualified for Joint CSIR-UGC for Junior Research Fellowship (JRF)** and declared eligible for Lectureship (NET), Earth, Atmospheric and Planetary Sciences.  
+  *Jan 2011*  
+
+* **PG Merit Scholarship for University Rank Holders**, University Grants Commission, India.  
+  *2009 – 2011*  
+
+* **I.I.T Bombay MCM Scholarship**, Indian Institute of Technology Bombay, India.  
+  *2009 – 2011*  
+
+* **University Gold Medal**, Kakatiya University, India.  
+  *Apr 2009*
