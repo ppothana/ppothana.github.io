@@ -22,9 +22,9 @@ repository               : "ppothana/ppothana.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Headshot-1.jpg"
+  avatar           : "/images/Headshot-1.jpg" 
   name             : "Prasad Pothana"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/hem"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Grand Forks, ND"
   employer         : "University of North Dakota"
