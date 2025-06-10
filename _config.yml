@@ -25,11 +25,11 @@ author:
   avatar           : "/images/Headshot-1.jpg" 
   name             : "Prasad Pothana"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Geoscience Researcher / Faculty"
   location         : "Grand Forks, ND"
   employer         : "University of North Dakota"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "prasad.pothana@und.edu"
 
   # Academic websites
   academia         : # URL
