@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Doctor of Philosophy in Petroleum Engineering (Geophysics) **  
+* **Doctor of Philosophy in Petroleum Engineering (Geophysics)**   
   University of North Dakota, Grand Forks, ND, USA (Jun 2025)  
   * GPA: 4.0/4.0  
   * Dissertation: Experimental and Numerical Insights into the Stress-Sensitive Petrophysical and Mechanical Behavior of Rocks.
