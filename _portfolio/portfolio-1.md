@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Portfolio "
+excerpt: "Petrophysicist and Geophysicist with over 9 years of experience in the energy industry and academic research. Proven expertise in reservoir characterization, rock physics, geomechanics, and CCUS. Strong technical foundation in subsurface modeling, laboratory testing, and data integration. Experienced with industry-standard tools and cutting-edge numerical methods. Passionate about developing practical, science-based solutions to energy and environmental challenges."
 collection: portfolio
 ---
 
