@@ -44,7 +44,7 @@ Work Experience
 
 
 * **Geoscience Research Assistant**  
-  Energy and Environmental Research Center (EERC), University of North Dakota, Grand Forks, USA 
+  Energy and Environmental Research Center (EERC), University of North Dakota, Grand Forks, USA   
   *Aug 2021 – Nov 2021*  
 
 
@@ -85,7 +85,7 @@ Skills
 **Numerical Modeling & Software**  
 - **Discrete Element Modeling**: LIGGGHTS, YADE; Itasca’s PFC2D, PFC3D (particle-based); 3DEC (block-based)  
 - **Finite Element Analysis**: ANSYS  
-- **Petrophysical Evaluation**: Schlumberger's Techlog™, AspenTech's Geolog™  
+- **Petrophysical Evaluation**: Techlog, Petrel, Geolog™  
 
 **Experimental & Laboratory Techniques**  
 - **Rock Mechanical Testing**: Triaxial and uniaxial compressive strength (UCS) testing (Autolab-1500)  
