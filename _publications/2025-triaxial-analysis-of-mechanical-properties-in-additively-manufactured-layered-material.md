@@ -10,6 +10,6 @@ number: ""
 pages: ""
 publisher: "John Wiley & Sons, Inc."
 excerpt: "This is a placeholder excerpt for the publication titled 'Triaxial Analysis of Mechanical Properties in Additively Manufactured Layered Material'."
----
+pdf: "/files/Ghoulem_Poly_2025.pdf"
 
-This is the detailed description of the publication titled **"Triaxial Analysis of Mechanical Properties in Additively Manufactured Layered Material"**. You can add more information here.
+---

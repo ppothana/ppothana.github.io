@@ -4,6 +4,6 @@ collection: teaching
 type: "Course"
 permalink: /teaching/reservoir-geomechanics-ptre-531
 venue: "University of North Dakota, Department of Energy and Petroleum Engineering"
-date: 2014-01-01
+date: 2023
 location: "Grand Forks, ND, USA"
 ---
