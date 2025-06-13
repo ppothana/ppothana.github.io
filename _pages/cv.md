@@ -33,76 +33,43 @@ Education
 
 Work Experience
 ======
-* **Graduate Teaching and Research Assistant**  
-  Department of Energy and Petroleum Engineering, University of North Dakota, Grand Forks, USA  
-  (Supervisors: Kegang Ling, Ph.D, Hui Pu, Ph.D, and Vamegh Rasouli, Ph.D)  
-  *Jan 2021 – Present*  
-  - **Teaching**:
-    - Assisted in teaching courses such as Reservoir Rock Physics (PTRE 512), Advanced Topics in Petrophysics (PTRE 579), Introductory Petroleum Engineering (PTRE 201), Well Logging and Advanced Well Logging (PTRE 401 and PTRE 587), Advanced Petroleum Engineering Labs (PTRE 511), and Reservoir Geomechanics (PTRE 531).
-    - Developed curriculum for the Geomechanics Laboratory course.
-    - Provided advanced Techlog and petrophysical training for graduate students.
-    - Designed course projects on machine learning applications for predicting geomechanical and petrophysical properties in the Bakken system.
-    - Organized and delivered petroleum engineering labs, overseeing scheduling, curriculum, grading, and feedback.
-    - Held weekly office hours for project guidance and prepared course materials and quizzes.
-  - **Research**:
-    - Developed Physics-Integrated Neural Networks for improved mineralogy estimation from well logs.
-    - Investigated diagenetic effects on elastic properties at the Broom Creek CO2 site.
-    - Conducted numerical modeling of effective elastic properties and micro-mechanical damage in granular rocks using discrete element methods (PFC and LIGGGHTS).
-    - Applied machine learning to estimate fracture porosity using image logs and advanced sonic data.
-  - **Lab Management**:
-    - Directed high-pressure, high-temperature testing using Autolab-1500 geomechanical apparatus.
-    - Supervised student experiments, performed instrument maintenance, and coordinated lab sessions.
-  - **Equipment Development**:
-    - Modeled and analyzed components using ANSYS for true triaxial rock testing equipment.
-    - Authored a grant proposal emphasizing project innovation and design optimization.
-
 * **UAS Research Associate**  
   Aviation, John D. Odegard School of Aerospace Sciences, University of North Dakota, Grand Forks, USA  
-  (Supervisors: Paul Snyder and Sreejith Vidhyadharan)  
   *Aug 2022 – Present*  
-  - Conducted trajectory modeling and statistical data analysis for UAV flight testing, contributing to FAA-sponsored projects.
-  - Designed potential right-of-way rules and conducted risk analysis for UAV operations.
-  - Applied reinforcement learning to predict UAV flight paths for counter-UAV applications.
-  - Conducted big data analysis using Python and PySpark on ADS-B data to optimize UAV operations around airports.
-  - Engineered a probabilistic risk assessment framework to evaluate interactions between UAVs, manned aircraft, and critical infrastructure.
+
+
+* **Graduate Teaching and Research Assistant**  
+  Department of Energy and Petroleum Engineering, University of North Dakota, Grand Forks, USA  
+  *Jan 2021 – May 2025*  
+
 
 * **Geoscience Research Assistant**  
-  Energy and Environmental Research Center (EERC), University of North Dakota, Grand Forks, USA  
-  (Supervisor: Matthew Belobraydic)  
+  Energy and Environmental Research Center (EERC), University of North Dakota, Grand Forks, USA 
   *Aug 2021 – Nov 2021*  
-  - Conducted multi-mineral petrophysical evaluations for CO2 sequestration projects.
-  - Developed Python scripts to automate detection and correction of erroneous geophysical log data.
-  - Delivered presentations of research findings to the petrophysics team.
+
 
 * **Senior Geophysicist (Wells)**  
   Center for Excellence in Well Logging Technology, Oil and Natural Gas Corporation Ltd., India  
   *Jan 2016 – Dec 2020*  
-  - Applied machine learning for reservoir characterization in the Krishna-Godavari Basin.
-  - Developed 1D mechanical earth models to estimate stress directions, pore pressure, and elastic properties.
-  - Conducted detailed processing and interpretation of FMI and OBMI image logs.
-  - Performed petrophysical evaluations of mineralogically complex reservoirs in the Kutch Offshore Basin.
+
 
 * **Geophysicist (Wells)**  
   Oil and Natural Gas Corporation Ltd., India  
   *Nov 2011 – Dec 2015*  
-  - Conducted 280 wire-line logging operations in high-pressure, high-temperature environments.
-  - Acquired operational knowledge of Halliburton/Baker Hughes geophysical tools and Schlumberger tools.
-  - Directed and monitored contractual logging on offshore/land rigs.
+
 
 * **Project Fellow (Geophysics)**  
   Department of Earth Sciences, Indian Institute of Technology Bombay, India  
   *May 2011 – Aug 2011*  
-  - Worked on an ISRO-sponsored project applying wavelet analysis to identify geomagnetic jerks.
+
 
 * **Summer Intern (Reservoir Geophysics)**  
   Reservoir Development Group, Cairn Energy Ltd, India  
   *May 2010 – Jul 2010*  
-  - Planned VSP surveys and utilized GeoFrame software for synthesizing seismograms.
 
 * **Industrial Training (Reservoir Geophysics)**  
   Seismic Data Processing and Interpretation Centre, Oil and Natural Gas Corporation Ltd., India  
   *Apr 2010 – May 2010*  
-  - Carried out seismic data processing with a focus on Pre-stack time migration.
 
 Skills
 ======
