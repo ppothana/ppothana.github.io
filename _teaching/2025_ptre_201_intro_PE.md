@@ -7,6 +7,3 @@ venue: "University of North Dakota, Department of Energy and Petroleum Engineeri
 date: 2014-01-01
 location: "Grand Forks, ND, USA"
 ---
-
-This file describes the course **Introductory Petroleum Engineering (PTRE 201)**.  
-Add course overview, key topics, and any additional teaching information here.

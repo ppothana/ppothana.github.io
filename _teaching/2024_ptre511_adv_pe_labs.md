@@ -7,6 +7,3 @@ venue: "University of North Dakota, Department of Energy and Petroleum Engineeri
 date: 2014-01-01
 location: "Grand Forks, ND, USA"
 ---
-
-This file describes the course **Advanced Petroleum Engineering Labs (PTRE 511)**.  
-Include information on lab exercises, equipment used, and learning outcomes.
