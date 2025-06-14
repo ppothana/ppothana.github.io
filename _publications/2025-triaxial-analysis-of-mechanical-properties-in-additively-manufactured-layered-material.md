@@ -10,5 +10,6 @@ number: ""
 pages: ""
 publisher: "John Wiley & Sons, Inc."
 pdf: "/files/Ghoulem_Poly_2025.pdf"
+<a href= "/files/Ghoulem_Poly_2025.pdf" target="_blank">PDF.</a>
 
 ---
