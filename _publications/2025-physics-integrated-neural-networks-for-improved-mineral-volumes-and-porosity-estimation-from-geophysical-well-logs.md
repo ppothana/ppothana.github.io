@@ -10,4 +10,5 @@ number: "2"
 pages: "100410"
 publisher: "Elsevier"
 pdf : "/files/Pothana_PINN_Energy_Geoscience_2025.pdf"
+paperurl: 'http://ppothana.github.io/files/Pothana_PINN_Energy_Geoscience_2025.pdf'
 ---
