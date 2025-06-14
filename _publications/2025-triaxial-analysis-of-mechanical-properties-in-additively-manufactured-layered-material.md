@@ -1,6 +1,6 @@
 ---
 title: "Triaxial Analysis of Mechanical Properties in Additively Manufactured Layered Material"
-authors: "Unknown"  # Handle missing 'Authors' key
+authors: "Ghoulem Ifrene, Richard Schultz, Prasad Pothana, Neal Nagel, Kuldeep Singh, Sven Egenhoff"  # Handle missing 'Authors' key
 collection: publications
 category: manuscripts
 date: 2025-01-01
