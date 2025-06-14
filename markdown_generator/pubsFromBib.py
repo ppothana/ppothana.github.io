@@ -27,18 +27,18 @@ import re
 import bibtexparser
 
 # Update the path to point to the BibTeX file in the data folder
-bib_file_path = "./data/publications.bib"
+# bib_file_path = "../data/publications.bib"
 
-with open(bib_file_path, encoding="utf-8") as bibtex_file:
-    bib_database = bibtexparser.load(bibtex_file)
+# with open(bib_file_path, encoding="utf-8") as bibtex_file:
+#     bib_database = bibtexparser.load(bibtex_file)
 
-# Continue processing records from bib_database.entries...
-print(f"Loaded {len(bib_database.entries)} publications from {bib_file_path}")
+# # Continue processing records from bib_database.entries...
+# print(f"Loaded {len(bib_database.entries)} publications from {bib_file_path}")
 
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
     "proceeding": {
-        "file" : "proceedings.bib",
+        "file" : "../data/proceedings.bib",
         "venuekey": "booktitle",
         "venue-pretext": "In the proceedings of ",
         "collection" : {"name":"publications",
@@ -46,7 +46,7 @@ publist = {
         
     },
     "journal":{
-        "file": "pubs.bib",
+        "file": "../data/publications.bib",
         "venuekey" : "journal",
         "venue-pretext" : "",
         "collection" : {"name":"publications",
