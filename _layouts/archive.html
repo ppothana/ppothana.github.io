@@ -19,15 +19,6 @@ layout: default
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
-    {{ content }}
 
-    {% for post in site.publications reversed %}
-      {% include archive-single.html %}
-      {% if post.pdf %}
-        <div class="pdf-download">
-          <a href="{{ post.pdf }}" target="_blank">Download PDF</a>
-        </div>
-      {% endif %}
-    {% endfor %}
   </div>
 </div>
