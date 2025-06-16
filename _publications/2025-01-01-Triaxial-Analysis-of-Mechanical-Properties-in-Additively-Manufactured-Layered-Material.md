@@ -1,6 +1,7 @@
 ---
 title: "Triaxial Analysis of Mechanical Properties in Additively Manufactured Layered Material"
-collection: publications
+collection: Journal Articles
+category: manuscripts
 permalink: /publication/2025-01-01-Triaxial-Analysis-of-Mechanical-Properties-in-Additively-Manufactured-Layered-Material
 date: 2025-01-01
 venue: 'Polymer Engineering &amp; Science (Under Review)'
