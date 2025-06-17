@@ -44,7 +44,7 @@ layout: default
         </header>
       {% endunless %}
 
-      {% comment %}
+      
 
       <section class="page__content" itemprop="text">
         {{ content }}
@@ -77,9 +77,9 @@ layout: default
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
-      {% endcomment %}
+      }
 
-      
+
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
