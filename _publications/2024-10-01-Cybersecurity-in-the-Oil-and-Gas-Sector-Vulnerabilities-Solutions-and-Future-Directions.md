@@ -1,6 +1,7 @@
 ---
 title: "Cybersecurity in the Oil and Gas Sector: Vulnerabilities, Solutions, and Future Directions"
 collection: publications
+category: conferences
 permalink: /publication/2024-10-01-Cybersecurity-in-the-Oil-and-Gas-Sector-Vulnerabilities-Solutions-and-Future-Directions
 date: 2024-10-01
 venue: 'In the proceedings of IEEE 4th Cyber Awareness and Research Symposium 2024'

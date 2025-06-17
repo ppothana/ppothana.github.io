@@ -1,6 +1,7 @@
 ---
 title: "Exploring the Feasibility of Head-Tracking Data for Cybersickness Prediction in Virtual Reality"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Exploring-the-Feasibility-of-Head-Tracking-Data-for-Cybersickness-Prediction-in-Virtual-Reality
 date: 2025-01-01
 venue: 'Electronics'

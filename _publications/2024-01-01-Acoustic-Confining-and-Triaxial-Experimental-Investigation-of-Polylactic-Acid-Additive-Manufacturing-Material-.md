@@ -1,6 +1,7 @@
 ---
 title: "Acoustic, Confining, and Triaxial Experimental Investigation of Polylactic Acid Additive Manufacturing Material "
 collection: publications
+category: conferences
 permalink: /publication/2024-01-01-Acoustic-Confining-and-Triaxial-Experimental-Investigation-of-Polylactic-Acid-Additive-Manufacturing-Material-
 date: 2024-01-01
 venue: '(Manuscript First Draft)'

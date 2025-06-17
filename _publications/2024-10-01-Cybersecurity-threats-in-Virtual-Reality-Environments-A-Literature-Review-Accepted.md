@@ -1,6 +1,7 @@
 ---
 title: "Cybersecurity threats in Virtual Reality Environments: A Literature Review (Accepted)"
 collection: publications
+category: conferences
 permalink: /publication/2024-10-01-Cybersecurity-threats-in-Virtual-Reality-Environments-A-Literature-Review-Accepted
 date: 2024-10-01
 venue: 'In the proceedings of IEEE 4th Cyber Awareness and Research Symposium 2024'

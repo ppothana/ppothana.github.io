@@ -1,6 +1,7 @@
 ---
 title: "Likelyhood Estimation of Critical Infrastructure Risk - UAV operations"
 collection: publications
+category: conferences
 permalink: /publication/2024-01-01-Likelyhood-Estimation-of-Critical-Infrastructure-Risk-UAV-operations
 date: 2024-01-01
 venue: '(Under Revision with Supervisors)'

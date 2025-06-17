@@ -1,6 +1,7 @@
 ---
 title: "Prediction of Reservoir Parameters using Support Vector Machines, A Machine Learning Approach"
 collection: publications
+category: conferences
 permalink: /publication/2020-01-01-Prediction-of-Reservoir-Parameters-using-Support-Vector-Machines-A-Machine-Learning-Approach
 date: 2020-01-01
 venue: 'In the proceedings of 5th CEWELL Symposium'

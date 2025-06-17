@@ -1,6 +1,7 @@
 ---
 title: "Determining the Saturation Point for UAV Operations in Airport Environments: A Probabilistic Approach"
 collection: publications
+category: conferences
 permalink: /publication/2024-04-01-Determining-the-Saturation-Point-for-UAV-Operations-in-Airport-Environments-A-Probabilistic-Approach
 date: 2024-04-01
 venue: 'In the proceedings of 2024 Integrated Communication, Navigation and Surveillance Conference (ICNS)'

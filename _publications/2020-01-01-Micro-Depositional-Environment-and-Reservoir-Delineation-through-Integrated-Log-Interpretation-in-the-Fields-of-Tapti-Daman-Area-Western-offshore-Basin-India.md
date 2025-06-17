@@ -1,6 +1,7 @@
 ---
 title: "Micro Depositional Environment and Reservoir Delineation through Integrated Log Interpretation in the Fields of Tapti-Daman Area, Western offshore Basin, India"
 collection: publications
+category: conferences
 permalink: /publication/2020-01-01-Micro-Depositional-Environment-and-Reservoir-Delineation-through-Integrated-Log-Interpretation-in-the-Fields-of-Tapti-Daman-Area-Western-offshore-Basin-India
 date: 2020-01-01
 venue: 'In the proceedings of 13th Biennial International Conference and Exposition'

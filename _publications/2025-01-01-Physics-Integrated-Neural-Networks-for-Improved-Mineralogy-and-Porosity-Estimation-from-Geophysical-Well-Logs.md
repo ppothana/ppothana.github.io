@@ -1,6 +1,7 @@
 ---
 title: "Physics-Integrated Neural Networks for Improved Mineralogy and Porosity Estimation from Geophysical Well Logs"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Physics-Integrated-Neural-Networks-for-Improved-Mineralogy-and-Porosity-Estimation-from-Geophysical-Well-Logs
 date: 2025-01-01
 venue: 'Energy Geoscience (Accepted)'

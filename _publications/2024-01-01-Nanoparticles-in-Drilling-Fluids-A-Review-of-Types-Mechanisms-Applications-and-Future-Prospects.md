@@ -1,6 +1,7 @@
 ---
 title: "Nanoparticles in Drilling Fluids: A Review of Types, Mechanisms, Applications, and Future Prospects"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Nanoparticles-in-Drilling-Fluids-A-Review-of-Types-Mechanisms-Applications-and-Future-Prospects
 date: 2024-01-01
 venue: 'Eng'

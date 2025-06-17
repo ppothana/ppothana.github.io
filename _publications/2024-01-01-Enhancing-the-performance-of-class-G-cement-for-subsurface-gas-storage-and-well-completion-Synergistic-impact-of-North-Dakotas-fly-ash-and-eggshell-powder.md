@@ -1,6 +1,7 @@
 ---
 title: "Enhancing the performance of class G cement for subsurface gas storage and well completion: Synergistic impact of North Dakota&apos;s fly ash and eggshell powder"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Enhancing-the-performance-of-class-G-cement-for-subsurface-gas-storage-and-well-completion-Synergistic-impact-of-North-Dakotas-fly-ash-and-eggshell-powder
 date: 2024-01-01
 venue: 'Powder Technology'

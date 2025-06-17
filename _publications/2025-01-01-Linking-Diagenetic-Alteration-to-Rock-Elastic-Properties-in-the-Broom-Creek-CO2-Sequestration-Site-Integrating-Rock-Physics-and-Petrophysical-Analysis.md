@@ -1,6 +1,7 @@
 ---
 title: "Linking Diagenetic Alteration to Rock Elastic Properties in the Broom Creek CO2 Sequestration Site: Integrating Rock Physics and Petrophysical Analysis"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Linking-Diagenetic-Alteration-to-Rock-Elastic-Properties-in-the-Broom-Creek-CO2-Sequestration-Site-Integrating-Rock-Physics-and-Petrophysical-Analysis
 date: 2025-01-01
 venue: 'Natural Resources Research (Under Review)'

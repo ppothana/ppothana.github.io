@@ -1,6 +1,7 @@
 ---
 title: "Air Traffic Trends and UAV Safety: Leveraging Automatic Dependent Surveillance–Broadcast Data for Predictive Risk Mitigation"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Air-Traffic-Trends-and-UAV-Safety-Leveraging-Automatic-Dependent-SurveillanceBroadcast-Data-for-Predictive-Risk-Mitigation
 date: 2025-01-01
 venue: 'Aerospace'

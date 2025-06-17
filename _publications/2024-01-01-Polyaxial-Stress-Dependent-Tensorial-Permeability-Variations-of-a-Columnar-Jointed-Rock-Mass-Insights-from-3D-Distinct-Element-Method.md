@@ -1,6 +1,7 @@
 ---
 title: "Polyaxial Stress-Dependent Tensorial Permeability Variations of a Columnar Jointed Rock Mass: Insights from 3D Distinct Element Method"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Polyaxial-Stress-Dependent-Tensorial-Permeability-Variations-of-a-Columnar-Jointed-Rock-Mass-Insights-from-3D-Distinct-Element-Method
 date: 2024-01-01
 venue: 'Indian Geotechnical Journal'

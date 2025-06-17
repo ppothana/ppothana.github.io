@@ -1,6 +1,7 @@
 ---
 title: "Geomagnetic Jerks: A Study Using Complex Wavelets"
 collection: publications
+category: books
 permalink: /publication/2013-01-01-Geomagnetic-Jerks-A-Study-Using-Complex-Wavelets
 date: 2013-01-01
 venue: 'In the proceedings of Wavelets and Fractals in Earth System Sciences'

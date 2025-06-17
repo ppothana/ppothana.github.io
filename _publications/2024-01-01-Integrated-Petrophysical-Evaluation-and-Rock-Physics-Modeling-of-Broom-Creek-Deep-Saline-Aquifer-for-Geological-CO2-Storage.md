@@ -1,6 +1,7 @@
 ---
 title: "Integrated Petrophysical Evaluation and Rock Physics Modeling of Broom Creek Deep Saline Aquifer for Geological CO2 Storage"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Integrated-Petrophysical-Evaluation-and-Rock-Physics-Modeling-of-Broom-Creek-Deep-Saline-Aquifer-for-Geological-CO2-Storage
 date: 2024-01-01
 venue: 'Fuels'
